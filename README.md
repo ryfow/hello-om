@@ -1,6 +1,6 @@
 # hello-om
 
-A simple hello world example of [https://github.com/swannodette/om](https://github.com/swannodette/om)
+A simple hello world example of https://github.com/swannodette/om
 
 You should know a couple things before looking at this project.
 
