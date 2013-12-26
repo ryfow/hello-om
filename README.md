@@ -13,6 +13,9 @@ I've tried to make something that has some interaction and is easy to
 grok. Maybe someone else gets something out of this. If not, I'm not
 going to worry about it.
 
+I checked in the compiled javascript to the gh-pages branch so you can
+see this code running at http://ryfow.github.com/hello-om/resources/public/index.html
+
 ## Usage
 
 1. clone `https://github.com/swannodette/om.git` and `lein install` it.
