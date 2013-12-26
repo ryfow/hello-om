@@ -29,4 +29,4 @@ your option) any later version.
 
 ## Contributing
 
-Sure. Send a pull request or soemthing.
+Sure. Send a pull request or something.
